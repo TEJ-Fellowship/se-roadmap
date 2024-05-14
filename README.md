@@ -13,18 +13,16 @@
 
 ### Curriculum
 
-#### 1. Learn JavaScript basics
+#### 1. Learn HTML, CSS, JavaScript basics
 
-- course: [Bootcamp prep](https://www.fullstackacademy.com/bootcamp-prep-online)
-- how to sign up: fill in your first name, last name, email, phone number, zip code
-- plan: 12 weeks, 1 hour per day, 5 days a week
+- course: [Foundations course from The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 #### 2. Learn React basics
 
 - course: [Complete Intro to React v8](https://react-v8.holt.courses/) by Brian Holt
 - plan: follow the 'No frills react' and 'JS tools' chapters
 
-#### 3. Learn full stack coding
+#### 3. Learn full-stack coding
 
 - course: [Fullstack open curriculum](https://fullstackopen.com/en/)
 - plan:
@@ -41,8 +39,19 @@
   - level 6 (for Nepal jobs): 16 weeks
   - level 5 (for Global jobs): 52 weeks
 
+### Other learning paths
+
+#### 1. Learn JavaScript basics
+
+- option a: [Codeacademy intro to java](https://www.codecademy.com/learn/introduction-to-javascript)
+- option b: [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- option c: [Bootcamp prep](https://www.fullstackacademy.com/bootcamp-prep-online)
+  - sign up: fill in your first name, last name, email, phone number, zip code (use 11111)
+  - plan: 12 weeks, 1 hour per day, 5 days a week
+
 ### Useful links
 
+- [SNMV OJT slides](resources/pdf/SNMV%20OJT%20Workshop.pdf)
 - [git basics](https://git-scm.com/book/en/v2)
 
 # Fullstack open guide
